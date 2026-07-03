@@ -40,3 +40,12 @@ python -m astrape.evaluate --source src.wav --target speaker.astrape --output ou
 - **iSTFT / Vocos** — Siuzdak et al., "Vocos: Closing the Gap Between Time-Domain and Fourier-Based Neural Vocoders", 2024, arXiv:2306.00819
 - **Predictive Coding** — Oord et al., "Representation Learning with Contrastive Predictive Coding (CPC)", 2018
 - **APCodec** — Ai et al., "APCodec: A Neural Audio Codec", IEEE/ACM TASLP 2024, arXiv:2402.10533
+- FreeGAN — Is GAN Necessary for Mel Vocoder? (2508.07711)
+- DLL-APNet — Distilled Low-Latency causal vocoder (2509.13667)
+- APNet2 (2311.11545) · APNet (2305.07952)
+- Low-Latency phase prediction, anti-wrapping (2403.17378)
+- FreeV — pinv-mel magnitude prior (2406.08196)
+- Wavehax — aliasing-free F0 harmonic prior (2411.06807) · MS-Wavehax / streaming analysis (2506.03554)
+- Universal Harmonic Discriminator (2512.03486)
+- Prosody-Guided Harmonic Attention (2601.14472)
+
